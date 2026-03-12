@@ -14,5 +14,7 @@
   "jodek.advancement.utility.title": "Датапаки Утилиты",
   "jodek.advancement.utility.desc": "Предоставление функций общего назначения и улучшение качества жизни",
   "jodek.advancement.mining.title": "Датапаки про Крафт и Добычу ресурсов",
-  "jodek.advancement.mining.desc": "Расширение или корректировка рецептов крафта и добычи ресурсов"
+  "jodek.advancement.mining.desc": "Расширение или корректировка рецептов крафта и добычи ресурсов",
+  "jodek.config.reset": "Сбросить конфигурацию",
+  "jodek.config.reset_all": "Сбросить все конфигурации"
 }

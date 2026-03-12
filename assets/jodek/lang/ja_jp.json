@@ -14,5 +14,8 @@
   "jodek.advancement.utility.title": "ユーティリティ データパック",
   "jodek.advancement.utility.desc": "汎用機能と生活の質の改善を提供",
   "jodek.advancement.mining.title": "クラフト＆マイニング データパック",
-  "jodek.advancement.mining.desc": "クラフトレシピとマイニングを拡張または調整"
+  "jodek.advancement.mining.desc": "クラフトレシピとマイニングを拡張または調整",
+  "jodek.config.reset": "設定をリセット",
+  "jodek.config.reset_all": "すべての設定をリセット"
+  
 }

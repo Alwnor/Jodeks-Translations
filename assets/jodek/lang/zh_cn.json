@@ -14,5 +14,7 @@
   "jodek.advancement.utility.title": "工具类数据包",
   "jodek.advancement.utility.desc": "提供通用功能和 QoL 方面的改进",
   "jodek.advancement.mining.title": "合成与采矿数据包",
-  "jodek.advancement.mining.desc": "扩展或调整合成配方和采矿体验"
+  "jodek.advancement.mining.desc": "扩展或调整合成配方和采矿体验",
+  "jodek.config.reset": "重置配置",
+  "jodek.config.reset_all": "重置所有配置"
 }

@@ -14,5 +14,7 @@
   "jodek.advancement.utility.title": "Datapacks Utilitaires",
   "jodek.advancement.utility.desc": "Fournissant des fonctionnalités générales et des améliorations de qualité de vie",
   "jodek.advancement.mining.title": "Datapacks Craft & Minage",
-  "jodek.advancement.mining.desc": "Étendant ou ajustant les recettes de craft et le minage"
+  "jodek.advancement.mining.desc": "Étendant ou ajustant les recettes de craft et le minage",
+  "jodek.config.reset": "Réinitialiser la configuration",
+  "jodek.config.reset_all": "Réinitialiser toutes les configurations"
 }
