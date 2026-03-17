@@ -3,7 +3,7 @@
   "curseforge_project_id": "1451616",
   "curseforge_slug": "jodeks-translations",
   "loaders": [
-    "resourcepack"
+    "minecraft"
   ],
   "game_versions": [
     "1.21.6",
